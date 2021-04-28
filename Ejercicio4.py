@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # encoding: utf-8
+#Utilización: invocar al programa introduciendo un año como argumento a la llamada. Es decir: python3 Ejercicio4.py 2021
+#Esta llamada devolverá False
 
 import sys
 
